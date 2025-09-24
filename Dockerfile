@@ -1,4 +1,4 @@
-# Use Eclipse Temurin 17 JDK as the base
+# Use Eclipse Temurin 17 JDK as the base image
 FROM eclipse-temurin:17-jdk
 
 # Set the working directory inside the container
